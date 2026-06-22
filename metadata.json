@@ -1,0 +1,6 @@
+{
+  "name": "CRM Мойка Окон",
+  "description": "CRM веб-приложение для бизнеса мойки окон со встроенным экспортом кода для Google Apps Script и Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
